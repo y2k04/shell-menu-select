@@ -8,8 +8,8 @@ A script that allows a user to use arrow keys to select an item from a list. Som
 
 ```sh
 source ./get-choice.sh                                                                                       # Loading from local disk
-source <(wget -qO- https://raw.githubusercontent.com/the0neWhoKnocks/shell-menu-select/master/get-choice.sh) # Loading from GitHub at runtime (Good for single script applications)
-source <(curl -s https://raw.githubusercontent.com/the0neWhoKnocks/shell-menu-select/master/get-choice.sh)   # Same as above, but with curl instead.
+source <(wget -qO- https://raw.githubusercontent.com/y2k04/shell-menu-select/master/get-choice.sh) # Loading from GitHub at runtime (Good for single script applications)
+source <(curl -s https://raw.githubusercontent.com/y2k04/shell-menu-select/master/get-choice.sh)   # Same as above, but with curl instead.
 ```
 
 ---
